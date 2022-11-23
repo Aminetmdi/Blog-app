@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use React",
+      "author": "Amin",
+      "id": 1
+    },
+    {
+      "title": "How To Lose Amin In 6 Days",
+      "body": "How To Sell Amin",
+      "author": "Nima",
+      "id": 2
+    },
+    {
+      "title": "8 Cartoons About Amin That'll Brighten Your Day",
+      "body": "copy icon at the end of the box.",
+      "author": "Reza",
+      "id": 3
+    },
+    {
+      "title": "My Life, My Job, My Career: How 8 Simple Amin Helped Me Succeed",
+      "body": "you can re-run the process to get newer titles",
+      "author": "Vahid",
+      "id": 4
+    },
+    {
+      "title": "9 Fun Facts About Amin",
+      "body": "What Sports Can Teach Us About Amin",
+      "author": "Radin",
+      "id": 5
+    }
+  ]
+}
